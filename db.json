@@ -1,9 +1,7 @@
 {
- "data":[
-         "6283194141127", 
-         "wilbob", 
-         "wilbob", 
-         "wilbob" 
-         "wilbob"
-    ]
-}    
+  "6283835961139": {
+    "name": "wilbob",
+    "saldo": 5000
+  }
+}
+
