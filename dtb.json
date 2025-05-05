@@ -1,3 +1,16 @@
-[
-  "7581766816:AAHP7XHITBDRWfHF_txu1dpJJIrfcmltgFs"
-]
+{
+  "tokens": [
+    {
+      "number": "6281234567890",
+      "token": "ABC123XYZ",
+      "status": "active",
+      "added_at": "2025-05-05"
+    },
+    {
+      "number": "6289876543210",
+      "token": "DEF456LMN",
+      "status": "inactive",
+      "added_at": "2025-05-01"
+    }
+  ]
+}
