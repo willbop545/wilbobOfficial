@@ -1,14 +1,19 @@
- {
-     "users": [
-       {
-         "id": "6289876543210",
-         "name": "fajar",
-         "status": "active"
-       },
-       {
-         "id": "6283835961139",
-         "name": "wilbob",
-         "status": "active"
-       }
-     ]
-   }
+{
+  "users": [
+    {
+      "id": "6289876543210",
+      "name": "fajar",
+      "status": "active"
+    },
+    {
+      "id": "6283835961139",
+      "name": "wilbob",
+      "status": "active"
+    },
+    {
+      "id": "6283194141127",
+      "name": "ketua",
+      "status": "active"
+    }
+  ]
+}
